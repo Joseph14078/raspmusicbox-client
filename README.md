@@ -4,7 +4,7 @@ The raspmusicbox Client provides an easy to use frontend for raspmusicbox Server
 
 ### USAGE
 
-Place all files in a location where they cam be hosted, and use any HTTP server (preferably nginx) to make them accessible.
+Place all files in a location where they can be hosted, and use any HTTP server (preferably nginx) to make them accessible.
 
 ### TO-DO
 - Redesign the interface
