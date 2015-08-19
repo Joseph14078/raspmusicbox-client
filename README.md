@@ -1,6 +1,6 @@
 # raspmusicbox Client
 
-The raspmusicbox Client provides an easy to use frontend for raspmusicbox Server [INSERT LINK], and is meant to be hosted on the same Raspberry Pi/PC that the server is running on. It is heavily inspired by Google's Material Design guidelines and has a heavy emphasis on color cycling.
+The raspmusicbox Client provides an easy to use frontend for [raspmusicbox Server](https://github.com/Joseph14078/raspmusicbox-server), and is meant to be hosted on the same Raspberry Pi/PC that the server is running on. It is heavily inspired by Google's Material Design guidelines and has a heavy emphasis on color cycling.
 
 ### USAGE
 
